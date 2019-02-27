@@ -1,13 +1,8 @@
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+1. Dmitry Cherepan
+2. email: dmitry.cherepan@gmail.com | telegram/phone: +375295457633
+3. Goal: graduated courses, become developer and rubit' bablo. Suggestions: reach my potential, get useful knowgles, make useful contacts,learn how to make marketing projects
+4. Skills: VHDL, System Verilog, Java SE, c++, assembly, OOP, Functional programming, imperative programming, Git, ISE WebPack Design, ModelSim PE, MicroCap, FPGA, JetBrains Tolls, VS Code, VM Box, Matlab)
+5. none
+6. University's labs on с++, java, vhdl, system verilog, assembly. coursework "create convolutional neural network"
+7. last year student of mmf in BSU
+8. A2 (school and universities classes) 
